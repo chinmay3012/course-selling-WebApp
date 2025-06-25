@@ -12,6 +12,7 @@ MongoDB: NoSQL database for storing application data.
 Mongoose: ODM (Object Data Modeling) library for MongoDB.
 
 Installation
+
 Clone the repository:
 git clone https://github.com/username/repository-name.git
 
@@ -26,7 +27,6 @@ Set up a .env file in the root directory with the following variable:
 
 MONGO_URL=<your-mongodb-connection-string>
 Run the application:
-
 node db.js
 
 Project Structure
